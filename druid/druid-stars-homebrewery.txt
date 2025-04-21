@@ -1,0 +1,177 @@
+# Circle of the Stars Druid
+
+Whether calling on the elemental forces of nature or emulating the creatures of the animal world, druids are an embodiment of nature's resilience, cunning, and fury. They claim no mastery over nature, but see themselves as extensions of nature's indomitable will.
+
+You must have a Wisdom score of 13 or higher in order to multiclass in or out of this class.
+
+:
+
+The **Circle of Stars** allows druids to draw on the power of starlight. These druids have tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By revealing and understanding these secrets, the Circle of the Stars seeks to harness the powers of the cosmos.
+
+Many druids of this circle keep records of the constellations and the stars' effects on the world. Some groups document these observations at megalithic sites, which serve as enigmatic libraries of lore. These repositories might take the form of stone circles, pyramids, petroglyphs, and underground temples; any construction durable enough to protect the circle's sacred knowledge even against a great cataclysm.
+
+{{wide
+
+
+### The Druid Table
+
+| Level | Proficiency Bonus | Features | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|-------|-------------------|----------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 1st   | +2                | Druidic, Spellcasting | 2 | 2 | - | - | - | - | - | - | - | - |
+| 2nd   | +2                | Wild Shape, Druid Circle, Wild Companion (Optional) | 2 | 3 | - | - | - | - | - | - | - |
+| 3rd   | +2                |          | 2 | 4 | 2 | - | - | - | - | - | - | - |
+| 4th   | +2                | Wild Shape improvement, Ability Score Improvement, Cantrip Versatility (Optional) | 3 | 4 | 3 | - | - | - | - | - | - | - |
+| 5th   | +3                |          | 3 | 4 | 3 | 2 | - | - | - | - | - | - |
+| 6th   | +3                | Druid Circle feature | 3 | 4 | 3 | 3 | - | - | - | - | - | - |
+| 7th   | +3                |          | 3 | 4 | 3 | 3 | 1 | - | - | - | - | - |
+| 8th   | +3                | Wild Shape improvement, Ability Score Improvement, Cantrip Versatility (Optional) | 3 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 9th   | +4                |          | 3 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
+| 10th  | +4                | Druid Circle feature | 4 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
+| 11th  | +4                |          | 4 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 12th  | +4                | Ability Score Improvement, Cantrip Versatility (Optional) | 4 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 13th  | +5                |          | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 14th  | +5                | Druid Circle feature | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 15th  | +5                |          | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 16th  | +5                | Ability Score Improvement, Cantrip Versatility (Optional) | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 17th  | +6                |          | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th  | +6                | Timeless Body, Beast Spells | 4 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th  | +6                | Ability Score Improvement, Cantrip Versatility (Optional) | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th  | +6                | Archdruid | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
+
+}}
+
+\page
+### 1. Druidic
+
+You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.
+
+
+### 1. Spellcasting
+
+Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will.
+
+#### Cantrips
+
+At 1st level, you know two cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Druid table.
+
+#### Preparing and Casting Spells
+
+The Druid table shows how many spell slots you have to cast your druid spells of 1st level and higher. To cast one of these druid spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your Druid level (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *Cure Wounds*, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+
+You can also change your list of prepared spells when you finish a long rest. Preparing a new list of druid spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+
+#### Spellcasting Ability
+
+Wisdom is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
+
+**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier  
+**Spell attack modifier** = your proficiency bonus + your Wisdom modifier  
+
+#### Ritual Casting
+
+You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
+
+#### Spellcasting Focus
+
+You can use a druidic focus as a spellcasting focus for your druid spells.
+
+### 2. Wild Shape
+
+Starting at 2nd level, you can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest.
+
+Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.
+
+#### Beast Shapes
+
+| Level | Max. CR | Limitations               | Example       |
+|-------|---------|---------------------------|---------------|
+| 2nd   | 1/4     | No flying or swimming speed | Wolf          |
+| 4th   | 1/2     | No flying speed           | Crocodile     |
+| 8th   | 1       |                           | Giant eagle   |
+
+You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
+
+While you are transformed, the following rules apply:
+
+- Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.
+- When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
+- You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as *Call Lightning*, that you've already cast.
+\page
+- You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
+- You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
+### 2. Star Map
+
+At 2nd level, you've created a star chart as part of your heavenly studies. It is a Tiny object and can serve as a spellcasting focus for your druid spells. You determine its form by rolling on the Star Map table or by choosing one.
+
+While holding this map, you have these benefits:
+
+- You know the *Guidance* cantrip.
+- You have the *Guiding Bolt* spell prepared. It counts as a druid spell for you, and it doesn't count against the number of spells you can have prepared.
+- You can cast *Guiding Bolt* without expending a spell slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+- If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a short or long rest, and it destroys the previous map.
+
+### 2. Starry Form
+
+At 2nd level, you gain the ability to harness constellations' power to alter your form. As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast.
+
+While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The form lasts for 10 minutes. It ends early if you dismiss it (no action required), are incapacitated, die, or use this feature again.
+
+Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form:
+
+- **Archer.** A constellation of an archer appears on you. When you activate this form, and as a bonus action on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of you. On a hit, the attack deals radiant damage equal to 1d8 + your Wisdom modifier.
+
+- **Chalice.** A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores hit points to a creature, you or another creature within 30 feet of you can regain hit points equal to 1d8 + your Wisdom modifier.
+
+- **Dragon.** A constellation of a wise dragon appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain concentration on a spell, you can treat a roll of 9 or lower on the d20 as a 10.
+
+### 6. Cosmic Omen
+
+At 6th level, you learn to use your star map to divine the will of the cosmos. Whenever you finish a long rest, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next long rest, you gain access to a special reaction based on whether you rolled an even or an odd number on the die:
+
+- **Weal (even).** Whenever a creature you can see within 30 feet of you is about to make an attack roll, a saving throw, or an ability check, you can use your reaction to roll a d6 and add the number rolled to the total.
+
+- **Woe (odd).** Whenever a creature you can see within 30 feet of you is about to make an attack roll, a saving throw, or an ability check, you can use your reaction to roll a d6 and subtract the number rolled from the total.
+
+You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+### 10. Twinkling Constellations
+
+At 10th level, the constellations of your Starry Form improve. The 1d8 of the Archer and the Chalice becomes 2d8, and while the Dragon is active, you have a flying speed of 20 feet and can hover.
+
+Moreover, at the start of each of your turns while in your Starry Form, you can change which constellation glimmers on your body.
+
+### 14. Full of Stars
+
+At 14th level, while in your Starry Form, you become partially incorporeal, giving you resistance to bludgeoning, piercing, and slashing damage.
+
+\page
+
+### 18. Timeless Body
+
+Starting at 18th level, the primal magic that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.
+
+### 18. Beast Spells
+
+Beginning at 18th level, you can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.
+
+### 20. Archdruid
+
+At 20th level, you can use your Wild Shape an unlimited number of times.
+
+Additionally, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape.
+
+## Hill Dwarf
+
+Kingdoms rich in ancient grandeur, halls carved into the roots of mountains, the echoing of picks and hammers in deep mines and blazing forges, a commitment to clan and tradition – these common threads unite all dwarves.
+
+- **Speed.** Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
+- **Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+- **Dwarven Resilience**. You have advantage on saving throws against poison, and you have resistance against poison damage.
+- **Dwarven Combat Training.** You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
+- **Tool Proficiency.** You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.
+- **Stonecunning.** Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
