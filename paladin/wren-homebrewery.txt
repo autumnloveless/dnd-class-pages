@@ -1,5 +1,4 @@
 # Paladin
-A paladin swears to uphold justice and righteousness, to stand with the good things of the world against the encroaching darkness, and to hunt the forces of evil wherever they lurk. Different paladins focus on various aspects of the cause of righteousness, but all are bound by the oaths that grant them power to do their sacred work. Although many paladins are devoted to gods of good, a paladin’s power comes as much from a commitment to justice itself as it does from a god.
 
 ### Divine Sense
 The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.
@@ -18,10 +17,10 @@ This feature has no effect on undead and constructs.
 ### Fighting Style - Protection
 When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
-\column
-
 ### Divine Smite
 Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon’s damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend, to a maximum of 6d8.
+
+\page
 
 ### Divine Health
 By 3rd level, the divine magic flowing through you makes you immune to disease.
@@ -51,20 +50,10 @@ Beginning at 14th level, you can use your action to end one spell on yourself or
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
 
 \page
+
 # Oath of the Ancients Paladin
 
-### Tenets of the Ancients
-The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.
-:
-**Kindle the Light**. Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.
-:
-**Shelter the Light**. Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.
-:
-**Preserve Your Own Light**. Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can’t preserve it in the world.
-:
-**Be the Light**. Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.
-
-## Oath Spells
+### Oath Spells
 You gain oath spells at the paladin levels listed.
 
 ##### Oath of the Ancients Spells
@@ -87,6 +76,8 @@ A turned creature must spend its turns trying to move as far away from you as it
 
 If the creature’s true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned.
 
+\page
+
 ### Aura of Warding
 Beginning at 7th level, ancient magic lies so heavily upon you that it forms an eldritch ward. You and friendly creatures within 10 feet of you have resistance to damage from spells.
 
@@ -106,3 +97,10 @@ At the start of each of your turns, you regain 10 hit points.
 Whenever you cast a paladin spell that has a casting time of 1 action, you can cast it using a bonus action instead.
 Enemy creatures within 10 feet of you have disadvantage on saving throws against your paladin spells and Channel Divinity options.
 Once you use this feature, you can’t use it again until you finish a long rest.
+
+## Shield Master
+You use shields not just for protection but also for offense. You gain the following benefits while you are wielding a shield:
+
+- If you take the Attack action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield.
+- If you aren't incapacitated, you can add your shield's AC bonus to any Dexterity saving throw you make against a spell or other harmful effect that targets only you.
+- If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.
