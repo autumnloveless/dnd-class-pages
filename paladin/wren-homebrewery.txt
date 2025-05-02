@@ -1,0 +1,108 @@
+# Paladin
+A paladin swears to uphold justice and righteousness, to stand with the good things of the world against the encroaching darkness, and to hunt the forces of evil wherever they lurk. Different paladins focus on various aspects of the cause of righteousness, but all are bound by the oaths that grant them power to do their sacred work. Although many paladins are devoted to gods of good, a paladin’s power comes as much from a commitment to justice itself as it does from a god.
+
+### Divine Sense
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.
+
+You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
+
+### Lay on Hands
+Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.
+
+As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.
+
+Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
+
+This feature has no effect on undead and constructs.
+
+### Fighting Style - Protection
+When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+
+\column
+
+### Divine Smite
+Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon’s damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend, to a maximum of 6d8.
+
+### Divine Health
+By 3rd level, the divine magic flowing through you makes you immune to disease.
+
+### Sacred Oath
+When you reach 3rd level, you swear the oath that binds you as a paladin forever. 
+
+### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+### Aura of Protection
+Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.
+
+At 18th level, the range of this aura increases to 30 feet.
+
+### Aura of Courage
+Starting at 10th level, you and friendly creatures within 10 feet of you can’t be frightened while you are conscious.
+
+At 18th level, the range of this aura increases to 30 feet.
+
+### Improved Divine Smite
+By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage.
+
+### Cleansing Touch
+Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.
+
+You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
+
+\page
+# Oath of the Ancients Paladin
+
+### Tenets of the Ancients
+The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.
+:
+**Kindle the Light**. Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.
+:
+**Shelter the Light**. Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.
+:
+**Preserve Your Own Light**. Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can’t preserve it in the world.
+:
+**Be the Light**. Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.
+
+## Oath Spells
+You gain oath spells at the paladin levels listed.
+
+##### Oath of the Ancients Spells
+| Paladin Level | Spells |
+|:----:|:-------------|
+| 3rd  | ensnaring strike, speak with animals |
+| 5th  | moonbeam, misty step |
+| 9th | plant growth, protection from energy |
+| 13th | ice storm, stoneskin |
+| 17th | commune with nature, tree stride |
+
+### Channel Divinity
+When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+:
+**Nature’s Wrath**. You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish.
+:
+**Turn the Faithless**. You can use your Channel Divinity to utter ancient words that are painful for fey and fiends to hear. As an action, you present your holy symbol, and each fey or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.
+
+A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+
+If the creature’s true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned.
+
+### Aura of Warding
+Beginning at 7th level, ancient magic lies so heavily upon you that it forms an eldritch ward. You and friendly creatures within 10 feet of you have resistance to damage from spells.
+
+At 18th level, the range of this aura increases to 30 feet.
+
+### Undying Sentinal
+Starting at 15th level, when you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead. Once you use this ability, you can’t use it again until you finish a long rest.
+
+Additionally, you suffer none of the drawbacks of old age, and you can’t be aged magically.
+
+### Elder Champion
+At 20th level, you can assume the form of an ancient force of nature, taking on an appearance you choose. For example, your skin might turn green or take on a bark-like texture, your hair might become leafy or moss-like, or you might sprout antlers or a lion-like mane.
+
+Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:
+
+At the start of each of your turns, you regain 10 hit points.
+Whenever you cast a paladin spell that has a casting time of 1 action, you can cast it using a bonus action instead.
+Enemy creatures within 10 feet of you have disadvantage on saving throws against your paladin spells and Channel Divinity options.
+Once you use this feature, you can’t use it again until you finish a long rest.

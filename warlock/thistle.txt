@@ -1,0 +1,163 @@
+# Thisle, The Warlock 
+
+Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. Through pacts made with mysterious beings of supernatural power, warlocks unlock magical effects both subtle and spectacular.
+
+----
+
+# Story
+
+Thistle is a 30-ish year old human. She is married to an Archfey, one of the Tuatha De Danaan, named Airmid. Through this bond, she was granted magical power (Warlock). Thistle is not her true name, as those have power, but rather the name she gives to others. In truth, Thistle does not remember her true name.
+
+When Thistle was 20, she was studying at an arcane university. She was exploring the forests around the university one evening when she got lost, and ended up in the feywild. Her experiences in the Feywild changed her, making her Feylost (background) and Fey-touched (feat). 
+
+She can misty step and comprehend languages, and knowns Common, Evlish, and Sylvan. An experience deep in the shadows of the Feywild left her with an altered shadow. When still, one can sometimes see dark shapes moving inside her shadow, and on occasion, when Thistle moves suddenly, her shadow may lag behind her for a moment before aligning. In addition, small blue daisies grow around her when she sleeps.
+
+She wears a small amulet constructed by her wife that guides her when in need (Pact of the Talisman), and a silver wedding band around her finger serves as her arcane focus.
+
+Thistle does not remember much about her life before the Feywilds, nor much about her early days in the wilds, and seeks to understand who she was before and what she lost.
+
+----
+
+## The Warlock
+Level	Proficiency Bonus	Features	Cantrips Known	Spells Known	Spell Slots	Slot Level	Invocations Known
+1st	+2	Otherworldly Patron, Pact Magic	2	2	1	1st	-
+2nd	+2	Eldritch Invocations	2	3	2	1st	2
+3rd	+2	Pact Boon	2	4	2	2nd	2
+4th	+2	Ability Score Improvement, Eldritch Versatility (Optional)	3	5	2	2nd	2
+5th	+3		3	6	2	3rd	3
+6th	+3	Otherworldly Patron feature	3	7	2	3rd	3
+7th	+3		3	8	2	4th	4
+8th	+3	Ability Score Improvement, Eldritch Versatility (Optional)	3	9	2	4th	4
+9th	+4		3	10	2	5th	5
+10th	+4	Otherworldly Patron feature	4	10	2	5th	5
+11th	+4	Mystic Arcanum (6th level)	4	11	3	5th	5
+12th	+4	Ability Score Improvement, Eldritch Versatility (Optional)	4	11	3	5th	6
+13th	+5	Mystic Arcanum (7th level)	4	12	3	5th	6
+14th	+5	Otherworldly Patron feature	4	12	3	5th	6
+15th	+5	Mystic Arcanum (8th level)	4	13	3	5th	7
+16th	+5	Ability Score Improvement, Eldritch Versatility (Optional)	4	13	3	5th	7
+17th	+6	Mystic Arcanum (9th level)	4	14	4	5th	7
+18th	+6		4	14	4	5th	8
+19th	+6	Ability Score Improvement, Eldritch Versatility (Optional)	4	15	4	5th	8
+20th	+6	Eldritch Master	4	15	4	5th	8
+
+----
+
+Expanded Spell List
+The Archfey lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+Archfey Expanded Spells
+Spell Level	Spells
+1st	Faerie Fire, Sleep
+2nd	Calm Emotions, Phantasmal Force
+3rd	Blink, Plant Growth
+4th	Dominate Beast, Greater Invisibility
+5th	Dominate Person, Seeming
+
+----
+
+
+## Archfey Patron
+Your patron is a lord or lady of the fey, a creature of legend who holds secrets that were forgotten before the mortal races were born. This being's motivations are often inscrutable, and sometimes whimsical, and might involve a striving for greater magical power or the settling of age-old grudges. Beings of this sort include the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; her consort Oberon, the Green Lord; Hyrsam, the Prince of Fools; and ancient hags.
+
+## Background: Feylost
+You grew up in the Feywild after disappearing from your home plane as a child. Perhaps you were spirited away by kindly Fey who thought you were destined for great things. Perhaps you stumbled through a Fey crossing by chance during a twilight stroll in the woods. Perhaps you were kidnapped by evil Fey but escaped from their clutches. Whatever the manner of your disappearance, you gradually fell under the Feywild's spell and learned a little about the nature of the mercurial tricksters that dwell there.
+
+When you finally returned to your home plane, you did not come back unchanged. You are haunted by the fact the Feywild-a mirror world hidden behind a mere twist of perception-is only a hair's breadth away. Although your memories of the Feywild grow fainter with each passing day, your heart swells with a mixture of fear and joy at the prospect of one day venturing back to the Plane of Faerie-your home away from home.
+
+## Race: Human
+In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that's why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
+
+Ability Score Increase. Your ability scores each increase by 1.
+Age. Humans reach adulthood in their late teens and live less than a century.
+Alignment. Humans tend toward no particular alignment. The best and the worst are found among them.
+Size. Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+Speed. Your base walking speed is 30 feet.
+Languages. You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+
+----
+
+
+## Pact Magic
+Your arcane research and the magic bestowed on you by your patron have given you facility with spells.
+
+### Cantrips
+You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
+
+### Spell Slots
+The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
+
+For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell witch bolt, you must spend one of those slots, and you cast it as a 3rd-level spell.
+
+Spells Known of 1st Level and Higher
+At 1st level, you know two 1st-level spells of your choice from the warlock spell list.
+
+The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level or higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.
+
+Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
+
+### Spellcasting Ability
+Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
+
+Spell save DC = 8 + your proficiency bonus + your Charisma modifier
+
+Spell attack modifier = your proficiency bonus + your Charisma modifier
+
+Spellcasting Focus
+You can use an arcane focus as a spellcasting focus for your warlock spells.
+
+----
+
+1. Subclass: Fey Presence
+Starting at 1st level, your patron bestows upon you the ability to project the beguiling and fearsome presence of the fey. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all charmed or frightened by you (your choice) until the end of your next turn.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+1. Feat: Fey Touched
+Your exposure to the Feywild's magic has changed you, granting you the following benefits:
+
+Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
+You learn the Misty Step spell and one 1st-level spell of your choice. The 1st-level spell must be from the Divination or Enchantment school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
+
+
+2. Class: Eldritch Invocations
+In your study of occult lore, you have unearthed Eldritch Invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
+
+At 2nd level, you gain two eldritch invocations of your choice. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table. A level prerequisite refers to your level in this class.
+
+Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
+
+3. Class: Pact Boon
+At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
+
+Pact of the Talisman
+Your patron gives you an amulet, a talisman that can aid the wearer when the need is great. When the wearer fails an ability check, they can add a d4 to the roll, potentially turning the roll into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
+If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet. The talisman turns to ash when you die.
+
+4. Class: Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+6. Subclass: Misty Escape
+Starting at 6th level, you can vanish in a puff of mist in response to harm. When you take damage, you can use your reaction to turn invisible and teleport up to 60 feet to an unoccupied space you can see. You remain invisible until the start of your next turn or until you attack or cast a spell.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+10. Subclass: Beguiling Defenses
+Beginning at 10th level, your patron teaches you how to turn the mind-affecting magic of your enemies against them. You are immune to being charmed, and when another creature attempts to charm you, you can use your reaction to attempt to turn the charm back on that creature. The creature must succeed on a Wisdom saving throw against your warlock spell save DC or be charmed by you for 1 minute or until the creature takes any damage.
+
+11. Class: Mystic Arcanum
+At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th-level spell from the warlock spell list as this arcanum.
+
+You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.
+
+At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.
+
+14. Subclass: Dark Delirium
+Starting at 14th level, you can plunge a creature into an illusory realm. As an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your warlock spell save DC. On a failed save, it is charmed or frightened by you (your choice) for 1 minute or until your concentration is broken (as if you are concentrating on a spell). This effect ends early if the creature takes any damage.
+
+Until this illusion ends, the creature thinks it is lost in a misty realm, the appearance of which you choose. The creature can see and hear only itself, you, and the illusion.
+
+You must finish a short or long rest before you can use this feature again.
+
+20. Class: Eldritch Master
+At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots. You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can do so again.
